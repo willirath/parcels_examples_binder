@@ -1,4 +1,4 @@
 #!/bin/bash
 
-parcels_get_examples parcels_example
+parcels_get_examples parcels_examples
 
