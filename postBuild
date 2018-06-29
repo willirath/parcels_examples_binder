@@ -1,0 +1,4 @@
+#!/bin/bash
+
+parcels_get_examples parcels_example
+
