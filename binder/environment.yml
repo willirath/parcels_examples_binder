@@ -5,4 +5,5 @@ channels:
 dependencies:
   - python=3
   - cartopy
-  - parcels=1.1.1
+  - openblas
+  - parcels=v2.0.0beta2
