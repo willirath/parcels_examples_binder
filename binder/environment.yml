@@ -6,4 +6,4 @@ dependencies:
   - python=3
   - cartopy
   - openblas
-  - parcels=v2.0.0beta2
+  - parcels=2.0.0beta2
